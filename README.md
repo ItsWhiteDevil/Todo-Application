@@ -30,6 +30,8 @@ Ensure you have the following installed on your machine:
 * Maven 3.x+
 * MySQL Server (Running on port `3306`)
 
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/c2ba1a78-695e-423b-a2b7-11218a400c68" />
+
 ### 2. Configure Database
 Create a database in your local MySQL instance:
 ```sql
