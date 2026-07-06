@@ -34,6 +34,6 @@ Ensure you have the following installed on your machine:
 
 ### 2. Configure Database
 Create a database in your local MySQL instance:
-```sql
+sql
 CREATE DATABASE todo_db;
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/78a2112a-3e61-4256-8f22-5ab1e999a08d" />
